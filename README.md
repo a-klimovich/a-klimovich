@@ -6,7 +6,7 @@
 ##### &#x1f4c8; How I use GitHub?
 ![a-klimovich's github stats](https://github-readme-stats.vercel.app/api?username=a-klimovich&count_private=true&size_weight=0.5&show_icons=true&theme=radical&border_radius=10&custom_title=GitHub+Stats&text_bold=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-klimovich&langs_count=6&size_weight=0.5&layout=compact&theme=radical&border_radius=10)
 
-##### 🏆 GitHub Profile Trophy?
+##### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=a-klimovich&title=Commits,Repositories,PullRequest,Issues&column=4&theme=dark_dimmed&no-bg=false&no-frame=true&margin-w=10&margin-h=15)](https://github.com/a-klimovich/github-profile-trophy)
 
 ##### 📫 How to contact me?
