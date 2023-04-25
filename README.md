@@ -1,6 +1,8 @@
 ### Hi, i'm Artur  👋
 ##### 🌱 What I use?
   ![](https://img.shields.io/badge/-MacOS-blue?style=flat&logo=apple&color=141321) ![](https://img.shields.io/badge/-VSCode-blue.svg?logo=visual-studio-code&color=141321) ![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&color=141321) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=141321) ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=141321) ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&color=141321) ![](https://img.shields.io/badge/WebGL-informational?style=flat&logo=webgl&color=141321) ![](https://img.shields.io/badge/-gitlab-blue?style=flat&logo=gitlab&color=141321) ![](https://img.shields.io/badge/Gulp-informational?style=flat&logo=gulp&color=141321) 
+  
+  ![Codewars](https://www.codewars.com/users/MXXXVETON/badges/small)
 ##### &#x1f4c8; How I use GitHub?
 ![a-klimovich's github stats](https://github-readme-stats.vercel.app/api?username=a-klimovich&count_private=true&size_weight=0.5&show_icons=true&theme=radical&border_radius=10&custom_title=GitHub+Stats&text_bold=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-klimovich&langs_count=6&size_weight=0.5&layout=compact&theme=radical&border_radius=10)
 
