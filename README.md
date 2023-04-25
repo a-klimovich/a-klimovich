@@ -1,20 +1,11 @@
-### Hi there 👋
+### Hi, i'm Artur  👋
+##### 🌱 What I use?
+  ![](https://img.shields.io/badge/-MacOS-blue?style=flat&logo=apple&color=141321) ![](https://img.shields.io/badge/-VSCode-blue.svg?logo=visual-studio-code&color=141321) ![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&color=141321) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=141321) ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=141321) ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&color=141321) ![](https://img.shields.io/badge/WebGL-informational?style=flat&logo=webgl&color=141321) ![](https://img.shields.io/badge/-gitlab-blue?style=flat&logo=gitlab&color=141321) ![](https://img.shields.io/badge/Gulp-informational?style=flat&logo=gulp&color=141321) 
+##### &#x1f4c8; How I use GitHub?
+![a-klimovich's github stats](https://github-readme-stats.vercel.app/api?username=a-klimovich&count_private=true&size_weight=0.5&show_icons=true&theme=radical&border_radius=10&custom_title=GitHub+Stats&text_bold=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-klimovich&langs_count=6&size_weight=0.5&layout=compact&theme=radical&border_radius=10)
 
-🔧 What I use?
+##### 🏆 GitHub Profile Trophy?
+[![trophy](https://github-profile-trophy.vercel.app/?username=a-klimovich&title=Commits,Repositories,PullRequest,Issues&column=4&theme=dark_dimmed&no-bg=false&no-frame=true&margin-w=10&margin-h=15)](https://github.com/a-klimovich/github-profile-trophy)
 
-![Codewars](https://github.r2v.ch/codewars?user=MXXXVETON&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
-<!--
-**a-klimovich/a-klimovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 📫 How to contact me?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-klimovich-6a8520192/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ar2r.klimovich@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/o0hh3)
