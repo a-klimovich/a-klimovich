@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=MXXXVETON)
+🔧 What I use?
+
+![Codewars](https://github.r2v.ch/codewars?user=MXXXVETON&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 <!--
 **a-klimovich/a-klimovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
