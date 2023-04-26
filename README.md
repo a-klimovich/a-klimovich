@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h2>Hi, i'm Artur 👋</h2>
-  <div><img style="margin-left: auto;" src="https://www.codewars.com/users/MXXXVETON/badges/micro" alt='codewars' /></div>
+  <div style="display: flex; justify-content: flex-end; align-items: center;"><img style="margin-left: auto;" src="https://www.codewars.com/users/MXXXVETON/badges/micro" alt='codewars' /></div>
 </div>
 
 ##### 🌱 What I use?
